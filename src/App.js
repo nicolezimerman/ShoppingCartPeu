@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.scss";
 import PrincipalPage from "./screens/PrincipalPage";
-import { HashRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 const App = () => {
   return (
