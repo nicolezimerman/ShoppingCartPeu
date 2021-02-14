@@ -1,0 +1,19 @@
+.cartItemContainer {
+  display: flex;
+  height: 100px;
+  align-items: center;
+}
+
+.imgContainer {
+  width: 90px;
+  height: 90px;
+  overflow: hidden;
+  padding-right: 10px;
+  img {
+    width: 100%;
+  }
+}
+
+.removeButton {
+  margin-left: 10px;
+}

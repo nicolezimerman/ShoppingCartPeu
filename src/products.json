@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "https://i.pinimg.com/564x/1b/ee/59/1bee594b2d123b899a9542d2881d8f24.jpg",
+            "title": "Clothing 1",
+            "description": "Id sit dolor aute aute.Labore mollit dolor eu exercitation id.",
+            "availableSizes": ["X", "L", "XL", "XXL"],
+            "price": 28.6
+        },
+        {
+            "id": 2,
+            "image": "https://i.pinimg.com/564x/b9/99/c2/b999c238bd20b8e1249bea530821981a.jpg",
+            "title": "Clothing 2",
+            "description": "Id sit dolor aute aute.Labore mollit dolor eu exercitation id.",
+            "availableSizes": ["L", "XL", "XXL"],
+            "price": 19
+        },
+        {
+            "id": 3,
+            "image": "https://i.pinimg.com/564x/30/83/8a/30838ade3035b634a07f8ed12a178b9b.jpg",
+            "title": "Clothing 3",
+            "description": "Id sit dolor aute aute.Labore mollit dolor eu exercitation id.",
+            "availableSizes": ["X", "L", "XXL"],
+            "price": 15
+        },
+        {
+            "id": 4,
+            "image": "https://i.pinimg.com/564x/97/6e/46/976e46ac9b0f6ce3802146d8c6843adf.jpg",
+            "title": "Clothing 4",
+            "description": "Id sit dolor aute aute.Labore mollit dolor eu exercitation id.",
+            "availableSizes": ["X", "L", "XL", "XXL"],
+            "price": 101
+        },
+        {
+            "id": 5,
+            "image": "https://i.pinimg.com/564x/81/e0/21/81e021a1c9a5210980b09286c348dee6.jpg",
+            "title": "Clothing 5",
+            "description": "Id sit dolor aute aute.Labore mollit dolor eu exercitation id.",
+            "availableSizes": ["X", "L", "XL"],
+            "price": 19.7
+        },
+        {
+            "id": 6,
+            "image": "https://i.pinimg.com/564x/37/d6/c5/37d6c5e60592f3b2a472fee9191c5931.jpg",
+            "title": "Clothing 6",
+            "description": "Id sit dolor aute aute.Labore mollit dolor eu exercitation id.",
+            "availableSizes": ["X", "L", "XL", "XXL"],
+            "price": 106.5
+        }
+    ]
+}

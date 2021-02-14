@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pageTitle {
+  transform: translate(25%, 50%);
+}
+
+.description {
+  width: 350px;
+}
+
+.imagesContainer {
+  display: flex;
+}
+
+.firstImage {
+  width: 400px;
+  height: auto;
+  overflow: hidden;
+  img {
+    width: 100%;
+  }
+}
+
+.secondImage {
+  z-index: -1;
+  width: 400px;
+  height: auto;
+  overflow: hidden;
+  transform: translate(-105px, 184px);
+  img {
+    width: 100%;
+  }
+}
