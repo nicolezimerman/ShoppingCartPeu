@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Cart from "../components/Cart/Cart";
+import Modal from "../components/Modal/Modal";
 import ProductList from "../components/ProductList/ProductList";
 import Header from "../statics/Header";
 import Nav from "../statics/Nav";
@@ -8,6 +9,7 @@ import styles from "./PrincipalPage.module.scss";
 const PrincipalPage = () => {
   const [cartItem, setCartItem] = useState([]);
   const [showCart, setShowCart] = useState(false);
+
   const addToCart = (product) => {
     const cartItems = cartItem.slice();
     let itemExists = false;
